@@ -10,6 +10,8 @@ manner than just directly writing the HTML.
 
 We use PicoCSS as a sensible drop-in CSS framework.
 
+![An example website created with this template.](./example.png)
+
 ## Getting started
 
 Run `gleam run -m build` to generate the static HTML for your site. How you serve
