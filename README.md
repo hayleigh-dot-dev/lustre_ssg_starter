@@ -25,7 +25,7 @@ Each page should look something like:
 import content.{Title, Section, Text}
 
 pub const content = [
-  Title("This is a page),
+  Title("This is a page"),
   Section([
     Text("Here is some content!")
   ])

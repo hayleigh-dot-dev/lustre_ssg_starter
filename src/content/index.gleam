@@ -16,7 +16,7 @@ pub fn main() {
   Section(
     [
       Text("This is some text. "),
-      Bold("This is bold."),
+      Bold("This is bold. "),
       Text("This text has some "),
       Code("code"),
       Text(" in it."),
